@@ -1,0 +1,15 @@
+:root {
+    /*dark mode*/
+--Azul-1:     #001F42;  /* Azul-marinho profundo, base forte */
+--Azul-2:     #042C50;  /* Azul petróleo, variação suave */
+--Azul-3:     #001530;  /* Azul muito escuro, quase preto */
+--Dourado:    #D7A544;  /* Tom dourado vibrante e elegante */
+--Cinza-cl:   #EDE9DD;  /* Cinza quase branco, tom neutro */
+  /*light mode*/
+--Bege-cl:    #F5EFE0;  /* Bege claro, base suave e aconchegante */
+--Cinza-v:   #E5E4D6;  /* Cinza esverdeado claro, neutro e elegante */
+--Azul-4:   #0C2C47;  /* Azul escuro profundo, tom principal de contraste */
+--Dourado:    #C78F3A;  /* Dourado queimado, tom quente e sofisticado */
+--Bege-md:    #F3EAD8;  /* Bege médio, equilíbrio neutro entre as cores */
+}
+
